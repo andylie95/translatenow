@@ -1,0 +1,7 @@
+gradio
+openai
+wandb
+azure-storage-blob
+azure-identity
+debugpy
+python-dotenv
